@@ -1,0 +1,26 @@
+* {
+   border: 1px solid red;
+}
+
+#principal {
+    margin: 0 auto;
+}
+
+.fila1 {
+    width: 45%;
+    height: 200px;
+    background-color: cornflowerblue;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    
+}
+
+.fila2 {
+    width: 20%;
+    height: 200px;
+    background-color: cornflowerblue;
+    float: left;
+    margin-left: 30px;
+    
+}
